@@ -13,7 +13,7 @@ Software Developer
 * 🌍  I'm based in Iraq, Erbil
 * 🧠  I'm currently learning Ai / ML
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkarkurdish&label=Profile%20views&color=0e75b6&style=flat" alt="sarkarkurdish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaqasim&label=Profile%20views&color=0e75b6&style=flat" alt="sinaqasim" /> </p>
 
 Socials
 
